@@ -1,9 +1,27 @@
 go 1.22.0
 
 use (
+	./Array
+	./buildapi
+	./closure
+	./conditional
+	./conversion
+	./defer
+	./files
+	./function
+	./handlingTime
 	./hello
+	./json
+	./loop
+	./methods
+	./mod
+	./pointer
+	./string
+	./struct
+	./trim
+	./urls
 	./userinput
 	./variables
-	./conversion
-	./conditional
+	./variadic
+	./webrequest
 )
